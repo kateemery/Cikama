@@ -7,7 +7,7 @@
 * Need to figure out what language we want to write this in? We can model phone apps in React, 
 * Take a picture of a plant (We will need photo album access)
 * Be able to ID plant (Trained Model for plant types)
-* Grab local UV and important flwoer data
+* Grab local UV and important flower data
 
 
 
