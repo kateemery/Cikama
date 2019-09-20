@@ -51,3 +51,7 @@
 * Remove plant button
 
 ---
+
+### Resources
+
+[Resources](resources.md)
