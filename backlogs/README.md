@@ -12,6 +12,8 @@
 * Parse the data for specific zip codes so that we can return the information
 * Design an output format for the data
 
+---
+
 [Spike] Create SQL database
 
 [Spike] Add it to a SQL database, unless the source already has one. 
@@ -32,8 +34,20 @@
 * [Different Ways to Convert Website to Mobile App](https://hackernoon.com/web-apps-turn-website-into-mobile-app-your-four-best-options-78fcb2277be8)
 * [Flutter Documentation](https://flutter.dev/docs/get-started/codelab)
 
+---
+
 [Story] As a user, I want to be able to receive a push notification, so that I can remember to water my plants.
+
+* Create Push notification
+* import plant name
+* import message "water Plant_Name_"
+* import message "replace soil for Plant_Name_"
+---
 
 [Story] As a plant owner, I want to receive information specific to my plant, so that I can care for it appropriately.
 
-Cool Podcast, ***Vergecast***
+* Create list of plants associated with username
+* Create an add plant button
+* Remove plant button
+
+---
