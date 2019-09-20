@@ -1,4 +1,5 @@
 # Cikama
+___
 
 #### The Care of the Plants
 
@@ -9,7 +10,7 @@
 * Be able to ID plant (Trained Model for plant types)
 * Grab local UV and important flower data
 
-
+---
 
 ## New Ideas
 
