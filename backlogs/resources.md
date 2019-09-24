@@ -8,7 +8,9 @@
 * [Using Python, AWS, and React/ReactNative](https://medium.com/proximistyle/building-your-startup-with-python-react-react-native-and-aws-286afd94a29c)
 * [AWS Educate](https://aws.amazon.com/about-aws/whats-new/2015/05/aws-educate-students-and-educators-can-access-aws-technology-cloud-courses-training-and-collaboration-tools/) 
  
-<center><span><img src="../img/doit.gif" alt="Let's Do This"></span></center>
+<p align="center">
+    <img src="../img/doit.gif" alt="Let's Do This">
+</p>
 
 ---
 | Building a Mobile App                                                 | Platform    | Language    |
