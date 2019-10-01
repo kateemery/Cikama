@@ -7,6 +7,17 @@
 ---
 * [Using Python, AWS, and React/ReactNative](https://medium.com/proximistyle/building-your-startup-with-python-react-react-native-and-aws-286afd94a29c)
 * [AWS Educate](https://aws.amazon.com/about-aws/whats-new/2015/05/aws-educate-students-and-educators-can-access-aws-technology-cloud-courses-training-and-collaboration-tools/) 
+---
+
+#### API's
+
+| Weather Data   | Plants              |
+| ---            | ---                 |
+| OpenWeatherMap | [Trefle](trefle.io) |
+| WeatherBit     |                     |
+| AccuWeather    |                     |
+| DarkSky        |                     |
+| Weather2020    |                     |
  
 <p align="center">
     <img src="../img/doit.gif" alt="Let's Do This">
