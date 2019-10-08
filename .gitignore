@@ -1,5 +1,13 @@
+# Secret Keys Shh it's a secret
 apiconfig.py
 config.py
+
+# NPM Packages
+node_modules
+package.json
+package-lock.json
+
+# Mac default files
 .DS_Store
 .ds_store
 .DS_STORE
